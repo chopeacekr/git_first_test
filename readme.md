@@ -1,7 +1,6 @@
 # notes
 ## basic
-### 11.12
-1. at home commands
+### commands
 '''bash
 mkdir git_first_test
 
@@ -16,7 +15,5 @@ git config --glob
 al credential.helper store
 
 github->setting->developer settings -> Personal Access Tokens -> Tokens(classic) -> choose permission 
-
-
 
 '''
